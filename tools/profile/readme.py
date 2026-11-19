@@ -28,7 +28,7 @@ def terminal(stats):
                       "10+ years, Campinas, Brazil, remote. Top 3% on Toptal. Open to roles."),
         "".join(linked(url, img(name, label.replace("open --", "").upper(), "25%")) for name, label, url in LINKS),
         img("about", about),
-        img("stats", f"GitHub stats: {stats['prs_merged']:,} pull requests merged, "
+        img("stats", f"GitHub stats: {stats['prs_merged']:,} public pull requests merged, "
                      f"{stats['contributions_last_year']:,} contributions in the last 12 months"),
         img("activity", "Contribution activity for the last 53 weeks, one bar per week"),
         img("projects", "Projects"),

@@ -286,7 +286,7 @@ def stats_panel(stats):
     tiles = [
         (f"{years}", "years on", "github"),
         (f"{stats['public_repos']:,}", "public", "repos"),
-        (f"{stats['prs_merged']:,}", "pull requests", "merged"),
+        (f"{stats['prs_merged']:,}", "public PRs", "merged"),
         (f"{stats['contributions_last_year']:,}", "contributions", "last 12 months"),
         (f"{stats['streak_current']:,}d", "current", "streak"),
         (f"{stats['streak_longest']:,}d", "longest", "streak"),
