@@ -1,13 +1,15 @@
-### Hi, I'm Lucas. I build full-stack web apps that hold up when real people show up.
-
-Software engineer at Index Risk (via Toptal, top 3%): React and TypeScript on the product, Go, PostgreSQL and AWS underneath.
-
-**What I've shipped**
-- [PV7 · Pabllo Vittar](https://pabllovittar.digital): official album-rollout site, about 20,000 visitors on launch day, campaign phases switched live with no redeploy (Next.js, Supabase, Redis)
-- [Carta de Adeus](https://www.cartadeadeus.cc/): fan tribute to Fresno, about 22,000 visitors, letters on a 3D globe (Next.js, React Three Fiber, Redis) · [code](https://github.com/lucasbittar/cartadeadeus)
-- [MyScrobble.fm](https://myscrobble.fm): Spotify listening dashboard with Gemini AI concert discovery · [code](https://github.com/lucasbittar/myscrobble)
-- [Weather Terminal](https://weatherapp-kohl-tau.vercel.app/): CRT-style weather app with AI suggestions · [code](https://github.com/lucasbittar/weatherapp)
-
-**Find me:** [lucasbittar.dev](https://lucasbittar.dev) · [LinkedIn](https://www.linkedin.com/in/lucasbittar) · [Substack](https://substack.com/@lucasbittar)
-
-<sub>Currently building: the underwriting platform at Index Risk, and the next version of MyScrobble.</sub>
+<!-- terminal:start -->
+<div align="center">
+<img src="./assets/header.svg" alt="Lucas Bittar: full-stack software engineer. React, TypeScript, Go, PostgreSQL. 10+ years, Campinas, Brazil, remote. Top 3% on Toptal. Open to roles." width="100%" align="top">
+<a href="https://lucasbittar.dev"><img src="./assets/link-site.svg" alt="SITE" width="25%" align="top"></a><a href="https://www.linkedin.com/in/lucasbittar"><img src="./assets/link-linkedin.svg" alt="LINKEDIN" width="25%" align="top"></a><a href="https://lucasbittar.dev/resume.pdf"><img src="./assets/link-resume.svg" alt="RESUME" width="25%" align="top"></a><a href="https://substack.com/@lucasbittar"><img src="./assets/link-writing.svg" alt="WRITING" width="25%" align="top"></a>
+<img src="./assets/about.svg" alt="I build full-stack web apps that hold up when real people show up. Now: Full-stack engineer at Index Risk (via Toptal): React and TypeScript on the product, Go and PostgreSQL APIs built with AI coding agents, every change reviewed by me. Before: 10 years as a Toptal engineer (top 3%) for Gartner, Zobrist (The North Face, VANS, Timberland) and others. Learning: Go, data structures and system design. Open to: Full-stack Engineer · Senior Frontend Engineer · Product Engineer (remote)" width="100%" align="top">
+<img src="./assets/stats.svg" alt="GitHub stats: 239 pull requests merged, 1,536 contributions in the last 12 months" width="100%" align="top">
+<img src="./assets/activity.svg" alt="Contribution activity for the last 53 weeks, one bar per week" width="100%" align="top">
+<img src="./assets/projects.svg" alt="Projects" width="100%" align="top">
+<a href="https://pabllovittar.digital"><img src="./assets/project-1.svg" alt="pv7: Official album-rollout site for Pabllo Vittar: 5 campaign phases switched live from an admin panel, no redeploy. ~20,000 visitors on launch day. Next.js · TypeScript · Supabase · Redis." width="50%" align="top"></a><a href="https://github.com/lucasbittar/cartadeadeus"><img src="./assets/project-2.svg" alt="carta-de-adeus: Fan tribute to Fresno: letters pinned on a 3D globe, locations coarsened to ~1 km for LGPD, rate-limited API. ~22,000 visitors, API cached at the CDN. Next.js · React Three Fiber · Supabase." width="50%" align="top"></a>
+<a href="https://github.com/lucasbittar/myscrobble"><img src="./assets/project-3.svg" alt="myscrobble: Spotify listening dashboard with Gemini AI concert discovery and server-rendered share cards. Waitlist inside Spotify&#x27;s 25-user cap. Next.js · TypeScript · Gemini API." width="50%" align="top"></a><a href="https://github.com/lucasbittar/weatherapp"><img src="./assets/project-4.svg" alt="weather-terminal: CRT-style weather app with Gemini AI suggestions, moved from Webpack to Vite. Tests + CI gate every deploy. React · TypeScript · Vitest · GitHub Actions." width="50%" align="top"></a>
+<img src="./assets/stack.svg" alt="Stack: languages: TypeScript, JavaScript, SQL, HTML, CSS, Go (growing); frontend: React, Next.js, TanStack Query, Zod, Tailwind CSS, shadcn/ui, Vite, Vitest; backend: PostgreSQL, REST and OpenAPI, Server-Sent Events, Node.js, Supabase, Redis; delivery: AWS (S3), GitHub Actions, Docker, Vercel, Google Cloud; practices: Design docs and ERDs, AI coding agents (Claude Code, Cursor), code review" width="100%" align="top">
+<a href="https://github.com/lucasbittar/dotfiles"><img src="./assets/setup.svg" alt="Setup: Ghostty · tmux · Neovim · zsh · fzf · gh · Claude Code" width="100%" align="top"></a>
+<img src="./assets/footer.svg" alt="Thanks for reading. Say hi at lucasbittar.dev" width="100%" align="top">
+</div>
+<!-- terminal:end -->
